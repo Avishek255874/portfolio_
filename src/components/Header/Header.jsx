@@ -3,11 +3,11 @@ import { useState } from 'react';
 import { Icon } from '@iconify/react';
 import { Link } from 'react-router-dom';
 import { Link as ScrollLink } from 'react-scroll';
-import { socialData } from '../../data.json';
+import { data } from '../../data.js';
 
 const Header = ({ data }) => {
   const { logoDark, logoLight } = data;
-
+ const {socialData}=data;
   const [mobileToggle, setMobileToggle] = useState(false);
 
   const handleMobileToggle = () => {
@@ -118,7 +118,7 @@ const Header = ({ data }) => {
           </li>
         </ul>
         <ul className="nav social-link">
-          {socialData.map((element, index) => (
+          {socialData?.map((element, index) => (
             <li key={index}>
               <a href={element.link} target="_blank" rel="noopener noreferrer">
                 <Icon icon={`fa6-brands:${element.icon}`} />

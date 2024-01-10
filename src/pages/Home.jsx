@@ -7,7 +7,7 @@ import Hero from "../components/Hero/Hero";
 import Portfolio from "../components/Portfolio/Portfolio";
 import Service from "../components/Service/Service";
 import Testimonial from "../components/Testimonial/Testimonial";
-import data from "../data.json";
+import {data} from "../data";
 
 
 const Home = () => {

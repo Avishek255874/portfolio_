@@ -1,4 +1,4 @@
-{
+ export const data={
   "headerData": {
     "logoDark": "/images/logo.svg",
     "logoLight": "/images/logo-light.svg"

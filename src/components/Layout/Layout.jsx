@@ -1,13 +1,13 @@
 import { Outlet } from "react-router-dom";
 import Header from "../Header/Header";
-import { headerData } from '../../data.json';
+import { data } from '../../data.js';
 import { useState, useEffect } from "react";
 import Preloader from "../Preloader/Preloader";
 import CustomCursor from "../CustomCursor/CustomCursor";
 
 const Layout = () => {
   const [isLoading, setIsLoading] = useState(true);
-
+ const {headerData}=data;
   useEffect(() => {
     setTimeout(() => {
       setIsLoading(false);

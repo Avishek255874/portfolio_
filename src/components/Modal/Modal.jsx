@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import { Icon } from "@iconify/react";
-import { socialData } from "../../data.json";
+import { data } from "../../data.js";
 
 const Modal = ({ img, title, date, subTitle, paraList, modalClose }) => {
   const modalStyle = {
@@ -8,6 +8,7 @@ const Modal = ({ img, title, date, subTitle, paraList, modalClose }) => {
     backdropFilter: "saturate(180%) blur(8px)",
     display: "block"
   };
+  const {socialData}=data;
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
       <div className="px-modal">
