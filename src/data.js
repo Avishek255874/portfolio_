@@ -6,7 +6,7 @@
   "heroData": {
     "title": "My name<br />is <b>Avishek</b> <span><br /> Sharma...</span>",
     "subTitle": "<span>Ui designer & Developer</span> based in <span>INDIA</span>",
-    "HeroImg": "../public/images/AVISHEK_AI_pic.jpg",
+    "HeroImg": "https://scontent.fccu2-3.fna.fbcdn.net/v/t39.30808-6/412599364_2066609037044848_1471285340140824077_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=dKth8iBElKAAX-pvv0c&_nc_ht=scontent.fccu2-3.fna&oh=00_AfAWMzWf1L_5JbCJtzbacRTHn6nCDwLOE2azBqQnuEdWNQ&oe=65A34BAD",
     "phone": " +91 6290892492",
     "email": "avisheksharma6290@gmail.com",
     "btnText": "Work with me",
