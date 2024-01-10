@@ -6,7 +6,7 @@
   "heroData": {
     "title": "My name<br />is <b>Avishek</b> <span><br /> Sharma...</span>",
     "subTitle": "<span>Ui designer & Developer</span> based in <span>INDIA</span>",
-    "ImgLink": ".././public/images/AVISHEK_AI_pic.jpg",
+    "HeroImg": "../public/images/AVISHEK_AI_pic.jpg",
     "phone": " +91 6290892492",
     "email": "avisheksharma6290@gmail.com",
     "btnText": "Work with me",

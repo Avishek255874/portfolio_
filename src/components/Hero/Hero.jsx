@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import HeroImg from "../../../public/images/AVISHEK_AI_pic.jpg"
 import { Icon } from '@iconify/react';
 import { useEffect } from 'react';
 import perser from 'html-react-parser';
@@ -6,7 +7,7 @@ import { Link as ScrollLink } from "react-scroll";
 
 
 const Hero = ({ data }) => {
-  const { title, subTitle, ImgLink, phone, email, socialData } = data;
+  const { title, subTitle, HeroImg, phone, email, socialData } = data;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -43,7 +44,7 @@ const Hero = ({ data }) => {
           </div>
         </div>
       </div>
-      <div className="hb-me" style={{ backgroundImage: `url(${ImgLink})` }} data-aos="fade-left" data-aos-duration="800" data-aos-delay="800"/>
+      <div className="hb-me" style={{ backgroundImage: `url(${HeroImg})` }} data-aos="fade-left" data-aos-duration="800" data-aos-delay="800"/>
       <div className="social-fix">
         <div className="social-links" >
           {
