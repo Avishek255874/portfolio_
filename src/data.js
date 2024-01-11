@@ -1,5 +1,19 @@
 import heroImage from "../public/asset/sharma.png";
-import profileImage from "../public/asset/instaPro.png"
+import profileImage from "../public/asset/instaPro.png";
+import webdesign from "../public/asset/webdesign.jpg";
+import uiuxdesign from "../public/asset/uiuxdesign.jpg";
+import mobileApp from "../public/asset/mobileApp.jpg";
+import graphic from "../public/asset/graphic.jpg";
+import NeedCrypto from "../public/asset/NeedCrypto.png";
+import learning from "../public/asset/e-learing.png";
+import netflix from "../public/asset/netflix.png";
+import Elearing from "../public/asset/Elearing.png" ;
+import bootstrap from "../public/asset/bootstrap.png" ;
+import css from "../public/asset/css.jpg" ;
+import js from "../public/asset/js.jpg" ;
+import html from "../public/asset/html.jpg" ;
+
+
 
 export const data = {
   headerData: {
@@ -109,7 +123,7 @@ export const data = {
       title: "Web Design",
       heading: "Experienced and creative web designer with a passion for developing visually ",
       triger: "One",
-      imgLink:"/public/asset/webdesign.jpg",
+      imgLink:webdesign,
       text: "Experienced and creative web designer with a passion for developing visually appealing and user-friendly websites. Seeking a challenging position to leverage my skills in graphic design, coding, and problem-solving to contribute to the success of a dynamic team.",
     },
     {
@@ -117,7 +131,7 @@ export const data = {
       heading:
         "Dedicated and skilled UI/UX designer with a proven track record ",
       triger: "Two",
-      imgLink:"/public/asset/uiuxdesign.jpg",
+      imgLink:uiuxdesign,
       text:" Dedicated and skilled UI/UX designer with a proven track record of creating visually stunning and intuitive interfaces. Seeking a challenging role to leverage my expertise in UI design, user experience optimization, and front-end development for impactful and user-centric digital experiences",
     },
     {
@@ -125,7 +139,7 @@ export const data = {
       heading:
         "Talented application designer with a strong background",
       triger: "Three",
-      imgLink:"/public/asset/mobileApp.jpg",
+      imgLink:mobileApp,
       text: "Talented application designer with a strong background in creating visually stunning and intuitive interfaces for both web and mobile platforms. Seeking a challenging role to leverage my skills in application design, user experience optimization, and cross-platform development for impactful and seamless digital experiences..",
     },
     {
@@ -133,13 +147,13 @@ export const data = {
       heading:
         "Versatile graphic designer with a keen eye",
       triger: "Four",
-      imgLink: "/public/asset/graphic.jpg",
+      imgLink: graphic,
       text: "Versatile graphic designer with a keen eye for detail and a passion for creating visually compelling and effective design solutions. Seeking a challenging role to leverage my skills in graphic design, branding, and visual communication to contribute to dynamic projects and teams.",
     },
   ],
   portfolioData: [
     {
-      ImgLink: "/public/asset/NeedCrypto.png",
+      ImgLink: NeedCrypto,
       subTitle: "NeedCrypto  web Interface",
       title: "Cryptocurrency",
       link: "https://phenomenal-daffodil-87eeed.netlify.app/",
@@ -159,7 +173,7 @@ export const data = {
       ],
     },
     {
-      ImgLink: "/public/asset/netflix.png",
+      ImgLink: netflix,
       subTitle: "Netiflix Clone interface",
       title: "Netiflix Clone Interface",
       link: "https://starlit-sprinkles-ad7e48.netlify.app/",
@@ -177,7 +191,7 @@ export const data = {
       ],
     },
     {
-      ImgLink: "/public/asset/e-learing.png",
+      ImgLink: learning,
       subTitle: "E-Learing mobile interface",
       title: "Mobile Application",
       link: "https://main--phenomenal-panda-486e38.netlify.app/",
@@ -195,7 +209,7 @@ export const data = {
       ],
     },
     {
-      ImgLink: "/public/asset/Elearing.png",
+      ImgLink: Elearing,
       subTitle: "E-learning",
       title: "Education web Interface",
       link: "https://majestic-donut-a29492.netlify.app/ ",
@@ -368,19 +382,19 @@ export const data = {
       },
       info: [
         {
-          imgLink: "/public/asset/bootstrap.png",
+          imgLink: bootstrap,
         },
         {
-          imgLink: "/public/asset/css.jpg",
+          imgLink: css,
         },
         {
-          imgLink: "/public/asset/html.jpg",
+          imgLink: html,
         },
         {
-          imgLink: "/public/asset/js.jpg",
+          imgLink: js,
         },
         {
-          imgLink: "/public/asset/react.png",
+          imgLink: react,
         },
         {
           imgLink: "/public/asset/tailwind-thumb.jpg",
