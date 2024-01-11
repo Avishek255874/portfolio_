@@ -109,7 +109,7 @@ export const data = {
       title: "Web Design",
       heading: "Experienced and creative web designer with a passion for developing visually ",
       triger: "One",
-      imgLink: "/public/asset/webdesign.jpg",
+      imgLink:"/public/asset/webdesign.jpg",
       text: "Experienced and creative web designer with a passion for developing visually appealing and user-friendly websites. Seeking a challenging position to leverage my skills in graphic design, coding, and problem-solving to contribute to the success of a dynamic team.",
     },
     {
@@ -125,7 +125,7 @@ export const data = {
       heading:
         "Talented application designer with a strong background",
       triger: "Three",
-      imgLink: "/public/asset/mobileApp.jpg",
+      imgLink:"/public/asset/mobileApp.jpg",
       text: "Talented application designer with a strong background in creating visually stunning and intuitive interfaces for both web and mobile platforms. Seeking a challenging role to leverage my skills in application design, user experience optimization, and cross-platform development for impactful and seamless digital experiences..",
     },
     {
