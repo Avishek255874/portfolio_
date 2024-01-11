@@ -1,5 +1,5 @@
 import heroImage from "../public/asset/sharma.png";
-import profileImage from "../public/asset/avishek.png"
+import profileImage from "../public/asset/instaPro.png"
 
 export const data = {
   headerData: {
