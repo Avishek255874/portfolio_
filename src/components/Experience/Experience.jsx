@@ -11,7 +11,7 @@ const Experience = ({ data }) => {
         <div className="row gy-5">
           <div className="col-lg-5">
             <div className="section-heading">
-              <SectionHeading title="My Experience" subTitle="Experience" />
+              <SectionHeading title="My Education" subTitle="Education  " />
               <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{text}</p>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
                 <a href={resumeCv} className="px-btn dark" download>
