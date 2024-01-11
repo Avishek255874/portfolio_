@@ -430,7 +430,7 @@ export const data = {
     },
   },
   footerData: {
-    ImgLink: profileImage,
+    ImgLink:profileImage,
     name: "Avishek Sharma",
   },
   socialData: [

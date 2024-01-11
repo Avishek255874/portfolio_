@@ -20,7 +20,7 @@ const Header = ({ data }) => {
       <div className="mob-header" onClick={handleMobileToggle}>
         <div className="mob-h-left">
           <Link className="navbar-brand" to="/">
-            <img className="logo-dark" title="" alt="" src={logoDark} />
+            <img className="logo-dark " title="" alt="" src={logoDark} />
             <img className="logo-light" title="" alt="" src={logoLight} />
           </Link>
         </div>
