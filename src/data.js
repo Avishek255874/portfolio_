@@ -430,7 +430,7 @@ export const data = {
     },
   },
   footerData: {
-    ImgLink: "/public/asset/instaPro.png",
+    ImgLink: profileImage,
     name: "Avishek Sharma",
   },
   socialData: [
