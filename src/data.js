@@ -121,7 +121,7 @@ export const data = {
       text:" Dedicated and skilled UI/UX designer with a proven track record of creating visually stunning and intuitive interfaces. Seeking a challenging role to leverage my expertise in UI design, user experience optimization, and front-end development for impactful and user-centric digital experiences",
     },
     {
-      title: "Mobile Application",
+      title: "Mobile Application",s
       heading:
         "Talented application designer with a strong background",
       triger: "Three",
