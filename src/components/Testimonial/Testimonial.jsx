@@ -8,10 +8,8 @@ const Testimonial = ({ data }) => {
   return (
     <section className="section testimonials-section bg-g">
       <div className="container">
-        <SectionHeading title="What they says" subTitle="Testimonial" />
-        <div className="testimonials">
-          <Carousel data={testimonialInfo} />
-        </div>
+        <SectionHeading title="LANGUAGES I AM DOING" subTitle="Languages" />
+     
         <div className="testimonials-brand">
           <Carousel data={brandInfo} />
         </div>

@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 
+
 const Footer = ({ data }) => {
   const { ImgLink, name } = data;
   const date = new Date;

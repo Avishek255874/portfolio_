@@ -3,8 +3,8 @@ import profileImage from "../public/asset/instaPro.png"
 
 export const data = {
   headerData: {
-    logoDark: "/images/logo.svg",
-    logoLight: "/images/logo-light.svg",
+    logoDark: "../public/asset/AVISHEKnaME.png",
+    logoLight: "Avishek Sharma",
   },
   heroData: {
     title: "My name<br />is <b>Avishek</b> <span><br />Sharma...</span>",
@@ -16,8 +16,8 @@ export const data = {
     btnText: "Work with me",
     socialData: [
       {
-        link: "https://dribbble.com/456sharma",
-        icon: "dribbble",
+        link: "https://pin.it/13oNNWQmc",
+        icon: "pinterest",
       },
       {
         link: "https://www.instagram.com/sharmaji_ka_lardka__/",
@@ -107,115 +107,109 @@ export const data = {
   serviceData: [
     {
       title: "Web Design",
-      heading: "Perspiciatis vero deleniti dolor assumenda voluptatum animi",
+      heading: "Experienced and creative web designer with a passion for developing visually ",
       triger: "One",
-      imgLink: "/images/services-1.jpg",
-      text: "Perspiciatis vero deleniti dolor assumenda voluptatum animi ut repellendus sit dolorem asperiores! Porro ullam pariatur neque beatae. Suscipit veniam fugiat vero, dolores perspiciatis asperiores, labore aspernatur quis enim ex quibusdam laboriosam ipsam qui ullam nulla iusto blanditiis praesentium fugit quo officiis doloremque provident! Dignissimos praesentium alias aliquid fugiat nihil tenetur itaque perspiciatis.",
+      imgLink: "/public/asset/webdesign.jpg",
+      text: "Experienced and creative web designer with a passion for developing visually appealing and user-friendly websites. Seeking a challenging position to leverage my skills in graphic design, coding, and problem-solving to contribute to the success of a dynamic team.",
     },
     {
       title: "UI/UX Design",
       heading:
-        "You can customize a template or make your own from scratch, with an immersive library at your disposal. You can customize a template",
+        "Dedicated and skilled UI/UX designer with a proven track record ",
       triger: "Two",
-      imgLink: "/images/services-2.jpg",
-      text: "Adipisci vitae ducimus voluptas veniam quidem, mollitia deserunt nihil, nulla cumque fugit laborum inventore similique, debitis neque tempore ipsa aspernatur? Necessitatibus vero ducimus molestiae doloribus reprehenderit modi vitae illum eos animi fugiat placeat blanditiis adipisci earum ab laborum id voluptates quo.",
+      imgLink: "/public/asset/uiuxdesign.jpg",
+      text:" Dedicated and skilled UI/UX designer with a proven track record of creating visually stunning and intuitive interfaces. Seeking a challenging role to leverage my expertise in UI design, user experience optimization, and front-end development for impactful and user-centric digital experiences",
     },
     {
       title: "Mobile Application",
       heading:
-        "Neque quo numquam consequuntur odio porro quidem soluta amet eveniet. Similique eum cupiditate repellat ipsa.",
+        "Talented application designer with a strong background",
       triger: "Three",
-      imgLink: "/images/services-3.jpg",
-      text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nulla repellendus consequuntur! Ipsa perferendis explicabo reiciendis, quos sint nobis praesentium officia consequuntur! Ullam maxime, provident placeat nesciunt eius distinctio ipsam modi vel nam iste ea neque quo numquam consequuntur odio porro quidem soluta amet eveniet. Similique eum cupiditate repellat ipsa.",
+      imgLink: "/public/asset/mobileApp.jpgs",
+      text: "Talented application designer with a strong background in creating visually stunning and intuitive interfaces for both web and mobile platforms. Seeking a challenging role to leverage my skills in application design, user experience optimization, and cross-platform development for impactful and seamless digital experiences..",
     },
     {
       title: "User Research",
       heading:
-        "Sint, mollitia accusamus odit inventore, veritatis eos repellendus nihil voluptates voluptatibus adipisci",
+        "Versatile graphic designer with a keen eye",
       triger: "Four",
-      imgLink: "/images/services-4.jpg",
-      text: "Sint, mollitia accusamus odit inventore, veritatis eos repellendus nihil voluptates voluptatibus adipisci sequi exercitationem optio labore perferendis aliquid cupiditate, nesciunt doloremque? Quidem totam, quas neque repudiandae amet rem harum inventore quo! Fuga ad esse excepturi optio, sint cum laborum.",
+      imgLink: "/public/asset/graphic.jpg",
+      text: "Versatile graphic designer with a keen eye for detail and a passion for creating visually compelling and effective design solutions. Seeking a challenging role to leverage my skills in graphic design, branding, and visual communication to contribute to dynamic projects and teams.",
     },
   ],
   portfolioData: [
     {
-      ImgLink: "/images/services-1.jpg",
-      subTitle: "UX case study",
-      title: "Processor Research",
-      link: "",
+      ImgLink: "/public/asset/NeedCrypto.png",
+      subTitle: "NeedCrypto  web Interface",
+      title: "Cryptocurrency",
+      link: "https://phenomenal-daffodil-87eeed.netlify.app/",
       paragraphList: [
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "In the fast-evolving realm of cryptocurrency, building a website that mirrors the dynamism of the market requires a strategic amalgamation of technologies. Enter HTML, CSS, Tailwind CSS, and React-Vite – a powerhouse combination for crafting a cutting-edge crypto platform.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "HTML lays the groundwork, structuring the web pages to accommodate various features. CSS steps in to weave a visual tapestry, and Tailwind CSS brings a utility-first approach, streamlining styles with precision. This collaborative effort results in a visually appealing and responsive user interface, a prerequisite for any crypto enthusiast exploring the volatile market.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "The introduction of React-Vite injects a dose of reactivity, making the website swift and reactive to user interactions. React components seamlessly integrate with Vite's rapid development environment, allowing for efficient code splitting and boosting overall performance.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "From real-time price charts to interactive transaction histories, the Tailwind and React-Vite duo facilitates the creation of a user-friendly and aesthetically pleasing crypto experience. Tailwind's utility classes simplify styling, enabling developers to focus on functionality and user engagement.",
         },
       ],
     },
     {
-      ImgLink: "/images/services-2.jpg",
-      subTitle: "UX case study",
-      title: "Artificial Research",
-      link: "",
+      ImgLink: "/public/asset/netflix.png",
+      subTitle: "Netiflix Clone interface",
+      title: "Netiflix Clone Interface",
+      link: "https://starlit-sprinkles-ad7e48.netlify.app/",
       paragraphList: [
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "In the dynamic world of web development, creating a Netflix clone using HTML, CSS, and Bootstrap can be an engaging and educational project for aspiring developers. By leveraging the power of Bootstrap, a popular front-end framework, one can achieve a visually appealing and responsive design, reminiscent of the renowned streaming platform.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "The journey begins with crafting the HTML structure, laying the foundation for the Netflix clone. A responsive navigation bar, adorned with the Netflix logo, sets the stage for an immersive user experience. The use of Bootstrap's grid system facilitates the creation of a flexible and responsive layout, ensuring seamless adaptation across various device.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "The main content section features a carefully designed layout, showcasing a featured movie with its image, title, description, and a compelling call-to-action button. The simplicity and elegance of Bootstrap's components contribute to the aesthetic appeal of this section. This area serves as the focal point, capturing the essence of a typical Netflix homepage.",
         },
-        {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        },
+       
       ],
     },
     {
-      ImgLink: "/images/services-3.jpg",
-      subTitle: "UX case study",
-      title: "Website Research",
-      link: "",
+      ImgLink: "/public/asset/e-learing.png",
+      subTitle: "E-Learing mobile interface",
+      title: "Mobile Application",
+      link: "https://main--phenomenal-panda-486e38.netlify.app/",
       paragraphList: [
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "As a testament to my proficiency in web development, I present a meticulously crafted HTML and CSS clone of a book appointment web design. This project reflects my dedication to creating user-centric interfaces, as I recreated the essential features and aesthetics of an appointment booking platform. The HTML structure and CSS styling seamlessly emulate the original design, showcasing my attention to detail and commitment to delivering intuitive and visually appealing web solutions.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "The book appointment web design clone demonstrates my expertise in creating functional and responsive interfaces that prioritize a smooth user experience. Through the use of HTML forms and CSS styling, I ensured that users can effortlessly navigate and interact with the appointment booking process. The design not only replicates the essential elements of a booking platform but also showcases my ability to implement clear and concise user interfaces, making the appointment scheduling process efficient and user-friendly.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "This project is a testament to my commitment to continuous learning and practical application of web development principles. By recreating a book appointment web design, I not only honed my HTML and CSS skills but also gained valuable insights into the intricacies of user interface design. This clone serves as a tangible example of my capability to translate design concepts into functional web pages and underscores my dedication to delivering high-quality, user-centered web solutions in the ever-evolving field of web development",
         },
-        {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        },
+        
       ],
     },
     {
-      ImgLink: "/images/services-4.jpg",
-      subTitle: "UX case study",
-      title: "Robotics Research",
-      link: "",
+      ImgLink: "/public/asset/Elearing.png",
+      subTitle: "E-learning",
+      title: "Education web Interface",
+      link: "https://majestic-donut-a29492.netlify.app/ ",
       paragraphList: [
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "In the ever-evolving landscape of education, the development of an e-learning website using HTML and CSS emerges as an exciting and impactful endeavor. This digital platform serves as a bridge between learners and knowledge, providing an accessible and interactive space for education in the digital age.",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "The foundation of the e-learning website lies in the HTML markup, where the skeletal structure of the pages takes shape. Key elements such as headers, navigation bars, and content containers are strategically arranged to create a user-friendly interface. The semantic structure of HTML ensures that the website is not only visually appealing but also accessible to individuals using assistive technologies",
         },
         {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          text: "CSS steps onto the stage to breathe life into the website, defining its aesthetic identity. From color schemes to typography, CSS empowers developers to tailor the visual elements, creating an environment conducive to learning. Responsive design principles are seamlessly incorporated, ensuring the website adapts to different screen sizes, making learning accessible anytime, anywhere.",
         },
-        {
-          text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        },
+        
       ],
     },
   ],
@@ -320,7 +314,7 @@ export const data = {
           },
         ],
       },
-      info: [
+    info: [
         {
           imgLink: "/images/avatar-1.jpg",
           name: "Ema Watson",
@@ -374,22 +368,22 @@ export const data = {
       },
       info: [
         {
-          imgLink: "/images/brand-1.png",
+          imgLink: "/public/asset/bootstrap.png",
         },
         {
-          imgLink: "/images/brand-2.png",
+          imgLink: "/public/asset/css.jpg",
         },
         {
-          imgLink: "/images/brand-3.png",
+          imgLink: "/public/asset/html.jpg",
         },
         {
-          imgLink: "/images/brand-4.png",
+          imgLink: "/public/asset/js.jpg",
         },
         {
-          imgLink: "/images/brand-1.png",
+          imgLink: "/public/asset/react.png",
         },
         {
-          imgLink: "/images/brand-2.png",
+          imgLink: "/public/asset/tailwind-thumb.jpg",
         },
       ],
     },
@@ -419,25 +413,25 @@ export const data = {
     },
   },
   footerData: {
-    ImgLink: "/images/about-banner.png",
-    name: "lilon williamson",
+    ImgLink: "/public/asset/instaPro.png",
+    name: "Avishek Sharma",
   },
   socialData: [
     {
-      icon: "twitter",
-      link: "",
+      icon: "github",
+      link: "https://github.com/Avishek255874",
     },
     {
       icon: "instagram",
-      link: "",
+      link: "https://www.instagram.com/sharmaji_ka_lardka__/",
     },
     {
       icon: "facebook",
-      link: "",
+      link: "https://www.facebook.com/Avishek6290/",
     },
     {
       icon: "pinterest",
-      link: "",
+      link: "https://pin.it/13oNNWQmc",
     },
   ],
 };
