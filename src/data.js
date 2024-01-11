@@ -117,15 +117,15 @@ export const data = {
       heading:
         "Dedicated and skilled UI/UX designer with a proven track record ",
       triger: "Two",
-      imgLink: "/public/asset/uiuxdesign.jpg",
+      imgLink:"/public/asset/uiuxdesign.jpg",
       text:" Dedicated and skilled UI/UX designer with a proven track record of creating visually stunning and intuitive interfaces. Seeking a challenging role to leverage my expertise in UI design, user experience optimization, and front-end development for impactful and user-centric digital experiences",
     },
     {
-      title: "Mobile Application",s
+      title: "Mobile Application",
       heading:
         "Talented application designer with a strong background",
       triger: "Three",
-      imgLink: "/public/asset/mobileApp.jpgs",
+      imgLink: "/public/asset/mobileApp.jpg",
       text: "Talented application designer with a strong background in creating visually stunning and intuitive interfaces for both web and mobile platforms. Seeking a challenging role to leverage my skills in application design, user experience optimization, and cross-platform development for impactful and seamless digital experiences..",
     },
     {
