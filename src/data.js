@@ -12,6 +12,9 @@ import bootstrap from "../public/asset/bootstrap.png" ;
 import css from "../public/asset/css.jpg" ;
 import js from "../public/asset/js.jpg" ;
 import html from "../public/asset/html.jpg" ;
+import tailwind from "../public/asset/tailwind-thumb.jpg" ;
+import reat from "../public/asset/react.png" ;
+
 
 
 
@@ -394,10 +397,10 @@ export const data = {
           imgLink: js,
         },
         {
-          imgLink: react,
+          imgLink: reat,
         },
         {
-          imgLink: "/public/asset/tailwind-thumb.jpg",
+          imgLink: tailwind,
         },
       ],
     },
