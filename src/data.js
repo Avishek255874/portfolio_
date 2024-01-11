@@ -7,7 +7,7 @@ export const data = {
     logoLight: "/images/logo-light.svg",
   },
   heroData: {
-    title: "My name<br />is <b>Avishek</b> <span><br /> Sharma...</span>",
+    title: "My name<br />is <b>Avishek</b> <span><br />Sharma...</span>",
     subTitle:
       "<span>Ui designer & Developer</span> based in <span>INDIA</span>",
     HeroImg: heroImage,
@@ -16,20 +16,24 @@ export const data = {
     btnText: "Work with me",
     socialData: [
       {
-        link: "",
+        link: "https://dribbble.com/456sharma",
         icon: "dribbble",
       },
       {
-        link: "",
+        link: "https://www.instagram.com/sharmaji_ka_lardka__/",
         icon: "instagram",
       },
       {
-        link: "",
+        link: "https://www.linkedin.com/in/avishek-sharma-b22796203/",
         icon: "linkedin",
       },
       {
-        link: "",
+        link: "https://www.facebook.com/Avishek6290/",
         icon: "facebook",
+      },
+      {
+        link: "https://github.com/Avishek255874",
+        icon: "github",
       },
     ],
   },
@@ -65,7 +69,7 @@ export const data = {
         {
           number: "01+",
           meta: "Years <br /> experience...",
-          text: "Hello there! My name is <span>Avishek Sharma</span>. I am a web designer & developer, and Im very passionate and dedicated to my work.",
+          text: "Hello there! My name is <span>Avishek Sharma</span>. I am a   Ui designer & Developer, and Im very passionate and dedicated to my work.",
         },
         {
           number: "10+",
@@ -395,18 +399,18 @@ export const data = {
       {
         icon: "chat-left-dots-fill",
         title: "Chat to us",
-        text: "Our friendly team is there to help.",
-        emailLink: "info@domainname.com",
+        text: "",
+        emailLink: "avisheksharma6290gmail.com",
       },
       {
         icon: "compass",
         title: "Visit us",
-        text: "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City",
+        text: "Kolkata , West Bengal",
       },
       {
         icon: "phone",
         title: "Call us",
-        text: "Mon-Fri from 8am to 5pm. +91 6290892492",
+        text: " +91 6290892492",
       },
     ],
     contactForm: {

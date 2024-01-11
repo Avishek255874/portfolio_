@@ -5,7 +5,7 @@ const Service = ({ data }) => {
   return (
     <section id="services" className="section services-section bg-dark">
       <div className="container">
-        <SectionHeading title="My Specialties" subTitle="My Service" />
+        <SectionHeading title="My Specialties" subTitle="" />
         <div className="accordion accordion-flush" id="accordion_services">
           {data.map((element, index) => (
             <div
