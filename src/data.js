@@ -18,6 +18,9 @@ import reat from "../public/asset/react.png" ;
 
 
 
+
+
+
 export const data = {
   headerData: {
     logoDark: "../public/asset/AVISHEKnaME.png",
@@ -59,7 +62,7 @@ export const data = {
       ImgLink:profileImage ,
       name: "Avishek Sharma",
       designation: "<span>Ui designer & Developer</span> based in <span>INDIA</span>",
-      resumeCv: "/Resume.pdf",
+      resumeCv: "../public/asset/resume.pdf",
     },
     aboutRight: {
       aboutText:
@@ -99,7 +102,7 @@ export const data = {
   },
   experienceData: {
     text: "Hello there! My name is Avishek Sharma. I am a web designer & developer, and Im very passionate and dedicated to my work.",
-    resumeCv: "/Resume.pdf",
+    resumeCv: "../public/asset/resume.pdf",
     experience: [
       {
         start: "2022",
