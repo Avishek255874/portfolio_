@@ -87,7 +87,7 @@ export const data = {
       ],
       archivement: [
         {
-          number: "01+",
+          number: "00",
           meta: "Years <br /> experience...",
           text: "Hello there! My name is <span>Avishek Sharma</span>. I am a   Ui designer & Developer, and Im very passionate and dedicated to my work.",
         },
