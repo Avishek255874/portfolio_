@@ -62,7 +62,7 @@ export const data = {
       ImgLink:profileImage ,
       name: "Avishek Sharma",
       designation: "<span>Ui designer & Developer</span> based in <span>INDIA</span>",
-      resumeCv: "../public/asset/resume.pdf",
+      resumeCv: "../public/asset/Custom Size – 1.jpg",
     },
     aboutRight: {
       aboutText:
