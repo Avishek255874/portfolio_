@@ -89,7 +89,7 @@ export const data = {
         {
           number: "00",
           meta: "Years <br /> experience...",
-          text: "Hello there! My name is <span>Avishek Sharma</span>. I am a   Ui designer & Developer, and Im very passionate and dedicated to my work.",
+          text: "Hello!. I am a   Ui designer & Developer, and Im very passionate and dedicated to my work.",
         },
         {
           number: "10+",
@@ -101,7 +101,7 @@ export const data = {
     },
   },
   experienceData: {
-    text: "Hello there! My name is Avishek Sharma. I am a web designer & developer, and Im very passionate and dedicated to my work.",
+    text: "Hello! I am a web designer & developer, and Im very passionate and dedicated to my work.",
     resumeCv: "../public/asset/resume.pdf",
     experience: [
       {
